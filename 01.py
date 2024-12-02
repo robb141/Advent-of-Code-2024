@@ -1,5 +1,5 @@
 import os
-# import down
+# import download
 
 with open(os.path.basename(__file__).split('.')[0] + '.txt', 'r') as f:
     list1, list2 = [], []
