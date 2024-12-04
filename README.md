@@ -1,1 +1,1 @@
-Solutions of advent of code that I coded by myself.
+Solutions of advent of code coded by me.
