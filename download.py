@@ -5,7 +5,7 @@ import sys
 import os
 
 day = sys.argv[1] if len(sys.argv) > 1 else datetime.today().strftime('%d')
-year = '2023'
+year = '2024'
 
 if os.path.exists(f'{day}.txt'):
     pass
